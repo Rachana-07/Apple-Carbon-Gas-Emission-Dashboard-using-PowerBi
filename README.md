@@ -27,7 +27,7 @@ Excel/CSV – Data pre-processing
 
 View of the Dashboard Report:
 
-![Dashboard Overview](https://raw.githubusercontent.com/username/repository/main/dashboard.png)
+![Dashboard Overview](https://github.com/Rachana-07/Apple-Carbon-Gas-Emission-Dashboard-using-PowerBi/blob/main/Screenshot%20(65).png)
 
 
 
