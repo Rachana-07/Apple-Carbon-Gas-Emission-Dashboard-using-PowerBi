@@ -27,6 +27,9 @@ Excel/CSV – Data pre-processing
 
 View of the Dashboard Report:
 
+![Dashboard Overview](https://raw.githubusercontent.com/username/repository/main/dashboard.png)
+
+
 
 
 
