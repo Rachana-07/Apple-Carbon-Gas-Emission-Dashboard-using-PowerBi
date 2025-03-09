@@ -27,7 +27,6 @@ Excel/CSV – Data pre-processing
 
 View of the Dashboard Report:
 
-"C:\Users\Hp\Pictures\Screenshots\Screenshot (65).png"
 
 
 
