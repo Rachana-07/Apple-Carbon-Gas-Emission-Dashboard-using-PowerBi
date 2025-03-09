@@ -1,17 +1,13 @@
 🌍 Apple Carbon Emissions Analysis – Power BI
 
-
 📌 Overview
-
 
 This project analyzes Apple’s carbon emissions using the dataset from the Maven Environmental Challenge. It provides insights into Apple's environmental impact using Power BI dashboards with various visualizations.
 
 
 📊 Features & Visualizations
 
-
 ✔️ Total Carbon Emissions Over Time – Displays emission trends by year.
-
 ✔️ Emissions by Apple Products – Compares emissions across different iPhone models.
 
 ✔️ Market Capitalization vs. Emissions – Analyzes financial growth and environmental impact.
@@ -25,15 +21,17 @@ This project analyzes Apple’s carbon emissions using the dataset from the Mave
 
 🔧 Technologies Used
 
-
 Power BI – Data visualization and dashboards
 DAX (Data Analysis Expressions) – Custom calculations and KPIs
 Excel/CSV – Data pre-processing
 
+View of the Dashboard Report:
+
+https://github.com/Rachana-07/Apple-Carbon-Gas-Emission-Dashboard-using-PowerBi/blob/main/Screenshot%20(65).png
+
 
 
 📌 Future Improvements
-
 
 🔹 Integrate real-time emission tracking via APIs.
 
